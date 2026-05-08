@@ -9,7 +9,7 @@ package debercv;
  * @author User
  */
 public class ver_historial {
-/*Ver historial Git en NetBeans
+    /*Ver historial Git en NetBeans
 Abre tu proyecto en NetBeans.
 En el menú superior entra a:
 Team → Show History
@@ -18,4 +18,5 @@ los commits realizados,
 fecha,
 autor,
 mensajes/comentarios.*/ 
+
 }
