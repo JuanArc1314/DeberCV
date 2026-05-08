@@ -9,13 +9,12 @@ package debercv;
  * @author User
  */
 public class ver_historial {
-/*Ver historial Git en NetBeans
-Abre tu proyecto en NetBeans.
-En el menú superior entra a:
-Team → Show History
-Se abrirá una ventana con:
-los commits realizados,
-fecha,
-autor,
-mensajes/comentarios.*/
+     // Pasos para ver el historial de Git en NetBeans:
+// 1. Abrir el proyecto en NetBeans
+// 2. Ir al menú Team
+// 3. Seleccionar Git
+// 4. Hacer clic en Show History
+// 5. Se mostrará el historial de commits
+// 6. Allí se pueden ver los cambios, autor, fecha y mensajes de cada versión del proyecto  
+    
 }

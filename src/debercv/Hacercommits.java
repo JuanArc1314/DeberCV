@@ -8,8 +8,8 @@ package debercv;
  *
  * @author USER
  */
-public class HacerCommit {
-    /*
+public class Hacercommits {
+   /*
  * Un commit es una fotografía del estado actual del proyecto en un momento
  * determinado. Cada vez que se realizan cambios en el código y se desea
  * guardarlos en el historial de Git, se ejecuta un commit para registrar
@@ -21,5 +21,5 @@ public class HacerCommit {
  *
  * Para compartirlos con el equipo se debe ejecutar un Push, que envía
  * los commits al repositorio remoto en GitHub.
- */
+ */ 
 }
