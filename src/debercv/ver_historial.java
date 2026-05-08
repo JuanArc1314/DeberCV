@@ -15,5 +15,6 @@ public class ver_historial {
 // 3. Seleccionar Git
 // 4. Hacer clic en Show History
 // 5. Se mostrará el historial de commits
-// 6. Allí se pueden ver los cambios, autor, fecha y mensajes de cada versión del proyecto                                                                                        
+// 6. Allí se pueden ver los cambios, autor, fecha y mensajes de cada versión del proyecto  
+    
 }
