@@ -1,10 +1,5 @@
 
 package debercv;
-
-/**
- *
- * @author Sebas2hVR
- */
 /*
 PROCESO PARA HACER PUSH DESDE NETBEANS
 
