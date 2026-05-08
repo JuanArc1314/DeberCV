@@ -17,5 +17,5 @@ Se abrirá una ventana con:
 los commits realizados,
 fecha,
 autor,
-mensajes/comentarios.*/
+mensajes/comentarios.*/ 
 }
